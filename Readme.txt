@@ -1,8 +1,8 @@
 === ColtPay Commerce ===
-Contributors: coltpayments
+Contributors: rsm0128
 Tags: WooCommerce, Payment gateway, Bitcoin, Blockchain
 Requires at least: 4.6
-Tested up to: 4.7
+Tested up to: 5.1
 Stable tag: trunk
 Requires PHP: 5.2.4
 License: GPLv2 or later
