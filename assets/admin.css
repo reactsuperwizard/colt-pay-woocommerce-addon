@@ -1,0 +1,39 @@
+.rentmy-admin-wrap .card{
+  width: 100%;
+  max-width: 95%;
+}
+.rentmy-admin-header {
+  height: 50px;
+  padding: 25px;
+}
+
+.rentmy-admin-header img {
+  margin-left: -15px;
+}
+
+.rentmy-admin-header .rentmy-admin-help {
+  margin-top: 12px;
+}
+
+.rentmy-admin-pull-left {
+  float: left;
+}
+
+.rentmy-admin-pull-right {
+  float: right;
+}
+
+.rentmy-admin-wrap h2 {
+ margin-bottom: 0;
+}
+
+.rentmy-admin-wrap .rentmy-admin-subtitle {
+  margin-top: 5px;
+}
+.rentmy-admin-wrap .form-table th {
+  padding: 20px 10px 0px 10px;
+}
+
+.rentmy-admin-wrap .regular-text{
+  padding: 5px ;
+}
