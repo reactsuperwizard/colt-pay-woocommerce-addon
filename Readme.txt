@@ -1,5 +1,5 @@
 === ColtPay Commerce ===
-Contributors: rsm0128
+Contributors: HuangMing
 Tags: WooCommerce, Payment gateway, Bitcoin, Blockchain
 Requires at least: 4.6
 Tested up to: 5.1
@@ -36,7 +36,7 @@ The configuration is complete. Your customer will be able to checkout and pay us
 
 = How do I get started? =
 
-1. Go to https://coltpay.com. Click on ‘Accept Bitcoin’ button on top. 
+1. Go to https://coltpay.com. Click on â€˜Accept Bitcoinâ€™ button on top. 
 2. Signup by adding a valid email address
 
 == Screenshots ==
